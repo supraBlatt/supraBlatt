@@ -2,6 +2,8 @@
 * Concurrency-In-Go
 * Haskell Purple Book
 
+Feel free to suggest me interesting textbooks! 
+
 ### GitHub Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
