@@ -1,3 +1,3 @@
 #### Currently reading:
-* concurrency-in-go
-* haskell purple book
+* Concurrency-In-Go
+* Haskell Purple Book
