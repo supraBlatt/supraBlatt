@@ -2,7 +2,7 @@
 * Concurrency-In-Go
 * Haskell Purple Book
 
-Feel free to suggest me interesting textbooks! 
+Feel free to suggest me interesting textbooks! :whale:
 
 ### GitHub Stats
 
