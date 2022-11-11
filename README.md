@@ -1,7 +1,7 @@
 ### Currently reading
-* Concurrency-In-Go
 * Haskell Purple Book
-* Magshimim books
+* SICP
+* Concurrency-In-Go
 
 Feel free to suggest anything you find interesting!
 
