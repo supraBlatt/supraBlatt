@@ -5,7 +5,8 @@
 ### On Hold
 * Haskell Purple Book
 * SICP
-* Rust Book 
+* Rust Book
+  
 Feel free to suggest anything you find interesting!
 
 ### GitHub Stats
