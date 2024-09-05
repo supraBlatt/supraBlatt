@@ -1,8 +1,11 @@
 ### Currently reading
+* Introduction to Concurrency Theory
+* Logical Foundations
+
+### On Hold
 * Haskell Purple Book
 * SICP
-* Concurrency-In-Go
-
+* Rust Book 
 Feel free to suggest anything you find interesting!
 
 ### GitHub Stats
