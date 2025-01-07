@@ -1,6 +1,6 @@
 ### Currently reading
 * Introduction to Concurrency Theory
-* Logical Foundations
+* Software Foundations Volume 2
 
 ### On Hold
 * Haskell Purple Book
