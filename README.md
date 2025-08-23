@@ -1,9 +1,8 @@
 ### Currently reading
 * Introduction to Concurrency Theory
-* Software Foundations Volume 2
+* Haskell Purple Book
 
 ### On Hold
-* Haskell Purple Book
 * SICP
 * Rust Book
   
